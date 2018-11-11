@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("LoopsAndIfs")]
+[assembly: AssemblyTitle("Tsk2RepeatCharacter")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Hewlett-Packard")]
-[assembly: AssemblyProduct("LoopsAndIfs")]
+[assembly: AssemblyProduct("Tsk2RepeatCharacter")]
 [assembly: AssemblyCopyright("Copyright © Hewlett-Packard 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d35affa3-cb3e-4f63-9c34-5d5f4830bb94")]
+[assembly: Guid("bdbab1e7-23e4-45da-878d-0418ce168fc3")]
 
 // Version information for an assembly consists of the following four values:
 //

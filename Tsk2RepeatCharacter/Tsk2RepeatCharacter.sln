@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsAndIfs", "LoopsAndIfs\LoopsAndIfs.csproj", "{D35AFFA3-CB3E-4F63-9C34-5D5F4830BB94}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tsk2RepeatCharacter", "Tsk2RepeatCharacter\Tsk2RepeatCharacter.csproj", "{BDBAB1E7-23E4-45DA-878D-0418CE168FC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D35AFFA3-CB3E-4F63-9C34-5D5F4830BB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D35AFFA3-CB3E-4F63-9C34-5D5F4830BB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D35AFFA3-CB3E-4F63-9C34-5D5F4830BB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D35AFFA3-CB3E-4F63-9C34-5D5F4830BB94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDBAB1E7-23E4-45DA-878D-0418CE168FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBAB1E7-23E4-45DA-878D-0418CE168FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBAB1E7-23E4-45DA-878D-0418CE168FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBAB1E7-23E4-45DA-878D-0418CE168FC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {535B7CD9-DD09-4580-A208-D9BBC2307069}
+		SolutionGuid = {4F404E2A-FBF4-4038-914F-5DE41271B11C}
 	EndGlobalSection
 EndGlobal

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D35AFFA3-CB3E-4F63-9C34-5D5F4830BB94}</ProjectGuid>
+    <ProjectGuid>{FCE5371E-924D-4962-938C-1099698368D3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LoopsAndIfs</RootNamespace>
-    <AssemblyName>LoopsAndIfs</AssemblyName>
+    <RootNamespace>Tsk1OddNumber</RootNamespace>
+    <AssemblyName>Tsk1OddNumber</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
